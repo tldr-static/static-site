@@ -1,6 +1,10 @@
 # 🧠 TL;DR  
 **We pursue simple and minimal apps.**
 
+TLDR는 심플함과 집중을 바탕으로, 매일 쓰임새 있는 디지털 제품을 만듭니다. 아래에서 우리의 **About**, **Services**, **Products**, **Blog**, **FAQ** 페이지를 통해 더 많은 정보를 확인하세요.
+
+- 내부 링크: [About](/about) · [Services](/services) · [Products](/products) · [Blog](/blog/) · [FAQ](/faq) · [Contact](/contact)
+
 ---
 
 ## 📱 Summary of Our Services
