@@ -24,6 +24,7 @@ export default {
           { text: 'Overview', link: '/replybridge/' },
           { text: 'Connect Instagram', link: '/replybridge/integration' },
           { text: 'How to use', link: '/replybridge/usage' },
+          { text: 'Instagram mini-series', link: '/replybridge/series/' },
           { text: 'Marketing & tips', link: '/replybridge/marketing/' }
         ]
       },
@@ -52,6 +53,19 @@ export default {
             { text: 'Overview', link: '/replybridge/' },
             { text: 'Connect Instagram', link: '/replybridge/integration' },
             { text: 'How to use', link: '/replybridge/usage' }
+          ]
+        },
+        {
+          text: 'Instagram mini-series',
+          collapsed: false,
+          items: [
+            { text: 'Series hub', link: '/replybridge/series/' },
+            { text: 'Ep 1 — Leads in comments', link: '/replybridge/series/01-never-lose-a-lead-in-comments' },
+            { text: 'Ep 2 — DM vs public reply', link: '/replybridge/series/02-dm-or-public-reply' },
+            { text: 'Ep 3 — Keywords & once', link: '/replybridge/series/03-keywords-once' },
+            { text: 'Ep 4 — End date', link: '/replybridge/series/04-automation-end-date' },
+            { text: 'Ep 5 — Sales & events', link: '/replybridge/series/05-sales-and-events' },
+            { text: 'Ep 6 — Official path', link: '/replybridge/series/06-official-path' }
           ]
         },
         {

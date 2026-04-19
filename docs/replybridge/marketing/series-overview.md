@@ -1,5 +1,7 @@
 # Card series guide
 
+**On this website:** We publish matching lessons you can link from DMs—see the **[Instagram mini-series](/replybridge/series/)** (Episodes 1–6, expandable).
+
 Themes and suggested order for Instagram **vertical multi-slide** series **A–F**. Full copy, PNG specs, and filenames follow reply-bridge `marketing/series/` and `CARD_NEWS_STRUCTURE.md`.
 
 ---

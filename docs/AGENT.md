@@ -34,7 +34,7 @@ Run from the **repository root**:
 | --- | --- |
 | `docs/index.md`, etc. | Home, About, Services, legal hub |
 | `docs/blog/` | Blog |
-| `docs/replybridge/` | ReplyBridge — `getting-started` (IG / DM funnel), overview, connect, usage, `marketing/` |
+| `docs/replybridge/` | ReplyBridge — `getting-started`, overview, connect, usage, `series/` (Instagram mini-series, add `NN-slug.md` + sidebar), `marketing/` |
 | `docs/*/` (e.g. `clubhouse/`, `slotspace/`) | Per-app subsites |
 | `docs/*-privacy-policy/`, `docs/*-term-conditions/` | Per-app legal |
 | `docs/.vitepress/config.js` | `title`, `description`, `nav`, `footer`, `head`, `sidebar` (ReplyBridge) |

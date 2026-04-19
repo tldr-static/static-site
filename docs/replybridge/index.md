@@ -46,6 +46,7 @@ ReplyBridge fits if you:
 | Page | What you’ll find |
 | --- | --- |
 | [Get started](/replybridge/getting-started) | Install → sign in → connect Instagram → first automation |
+| [Instagram mini-series](/replybridge/series/) | **6 short lessons** that match our Instagram series—add more episodes anytime |
 | [Connect Instagram](/replybridge/integration) | If linking your account feels confusing |
 | [How to use](/replybridge/usage) | Keywords, timing, and day-to-day tips |
 | [Marketing & tips](/replybridge/marketing/) | Content ideas for your own Instagram |

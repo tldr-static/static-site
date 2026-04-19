@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as i}from"./app.19f3f8f0.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"slotspace-privacy-policy/index.md"}'),r={name:"slotspace-privacy-policy/index.md"},a=i("",31),s=[a];function n(c,p,l,h,d,u){return t(),o("div",null,s)}const m=e(r,[["render",n]]);export{f as __pageData,m as default};
