@@ -26,16 +26,19 @@ If something here is missing, the app will usually tell you what to fix.
 
 ## Step 1 — Install the app
 
+**Fastest way:** open this link on your iPhone and tap **Get** or **Download**:
+
+👉 **[ReplyBridge on the App Store](https://apps.apple.com/us/app/replybridge/id6761187664)**
+
+Or:
+
 1. Open the **App Store** on your iPhone.
-2. Search for **ReplyBridge** and install the app published by **TLDR** (or use the same name as in our Instagram bio).
-3. Open ReplyBridge once so it can finish installing updates.
+2. Search for **ReplyBridge** and install the app by **TLDR** (same as our Instagram bio).
+3. Open ReplyBridge once so it can finish any updates.
 
 ::: tip No iPhone?
 ReplyBridge is built for **iOS** today. If you use Android, watch our Instagram for updates—or send us a message via [Contact](/contact).
 :::
-
-**Direct App Store search (opens on your phone):**  
-[Search “ReplyBridge” on the App Store](https://apps.apple.com/search?term=ReplyBridge)
 
 ---
 

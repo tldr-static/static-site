@@ -8,6 +8,7 @@ Our products are built on simplicity and designed for everyday use.
 
 - **Features:** Instagram comment & DM automation (Auto DM, Auto Reply), per-post automation window, keywords, once-per-user rules, analytics.
 - **Audience:** Operators of Instagram business and creator accounts.
+- **App Store:** https://apps.apple.com/us/app/replybridge/id6761187664
 - **Learn more:** [Get started (install & setup)](/replybridge/getting-started) — main link for Instagram DMs; [Overview](/replybridge/) — [Marketing & tips](/replybridge/marketing/)
 
 ## EmotionCare

@@ -11,7 +11,7 @@ TLDR builds practical digital products on simplicity and focus. Explore **About*
 
 | App | Description | Tech stack | Business model | App Store |
 |-----|-------------|------------|------------------|-----------|
-| **ReplyBridge** | Instagram comment & DM automation for businesses and creators. | iOS, Meta APIs | Per app policy | [Get started](/replybridge/getting-started) |
+| **ReplyBridge** | Instagram comment & DM automation for businesses and creators. | iOS, Meta APIs | Per app policy | [App Store](https://apps.apple.com/us/app/replybridge/id6761187664) · [Setup guide](/replybridge/getting-started) |
 | **EmotionCare** | AI-powered emotion care that analyzes your feelings and delivers personalized comfort messages. | Cloud Run, GitHub Actions, Datastore, Vertex AI (Gemini) | 🎟️ In-app purchase (tickets) | [App Store](https://apps.apple.com/app/emotioncare/id6483000351) |
 | **PackCheck** | Estimate luggage weight from a suitcase photo; manual items and live totals. | Cloud Run, Vertex AI (Gemini multimodal) | 📢 Google AdMob (interstitial) | [App Store](https://apps.apple.com/app/packcheck/id6744557596) |
 | **HandWarmer** | Paid app that uses intense computation for warmth. | Swift | 💰 Paid app | [App Store](https://apps.apple.com/app/handwarmer-at-your-fingertips/id6738308259) |

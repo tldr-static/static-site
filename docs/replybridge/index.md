@@ -12,7 +12,9 @@ This site is written for **creators, shop owners, and social marketers** who use
 
 👉 **[Get started — install & set up](/replybridge/getting-started)**
 
-That page is the best link to put in posts or Stories when you say things like *“Comment and we’ll send you the steps.”*
+**Install the app:** [ReplyBridge on the App Store](https://apps.apple.com/us/app/replybridge/id6761187664)
+
+The **getting started** page is the best link to put in posts or Stories when you say things like *“Comment and we’ll send you the steps.”*
 
 ---
 
