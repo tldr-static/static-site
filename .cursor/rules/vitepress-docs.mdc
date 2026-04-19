@@ -1,0 +1,26 @@
+---
+description: VitePress docs — nav, config, cleanUrls, app folder patterns
+globs: docs/**/*.md,docs/.vitepress/**/*
+alwaysApply: false
+---
+
+# VitePress (`docs/`)
+
+## Config
+
+- `docs/.vitepress/config.js` — `title`, `description`, `themeConfig.nav`, `themeConfig.footer`, `head` meta.
+- With `cleanUrls: true`, use links **without** `.html` (e.g. `/about`, `/blog/`).
+
+## New pages & sections
+
+- Follow existing app folder patterns (e.g. `docs/slotspace/`, `docs/*-privacy-policy/`).
+- Add **`themeConfig.nav`** entries when pages should appear in the global nav.
+
+## Markdown
+
+- Keep heading hierarchy consistent (`#` → `##` → `###`).
+- Use internal links that match VitePress rules (relative or root paths).
+
+## reply-bridge sync
+
+- When importing policy or marketing copy, open the matching file in **reply-bridge**—do not invent features.

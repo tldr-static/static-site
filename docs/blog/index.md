@@ -1,6 +1,6 @@
-# 블로그
+# Blog
 
-우리의 제품 개발 과정, 정책 준수, 운영 노하우를 공유합니다.
+We share how we build products, stay compliant with policies, and run operations.
 
-- [출시 노트: 2025 Q1](./launch-notes)
-- [광고 심사 통과를 위한 콘텐츠 품질 체크리스트](./policy-and-ads)
+- [Launch notes: 2025 Q1](./launch-notes)
+- [Content quality checklist for ad review](./policy-and-ads)

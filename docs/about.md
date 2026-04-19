@@ -1,44 +1,50 @@
-# 소개
+# About
 
-TLDR는 심플함과 집중을 통해 실제 문제를 해결하는 디지털 제품을 만듭니다. 우리는 불필요한 기능을 덜어내고, 많은 사람들이 매일 사용하는 가치 있는 서비스를 빠르고 안정적으로 제공합니다.
-
----
-
-## 우리의 미션
-- 문제를 단순화하여 본질에 집중합니다.
-- 사용자의 시간을 아끼는 제품을 만듭니다.
-- 개인정보와 보안을 최우선 가치로 둡니다.
-
-## 우리가 일하는 방식
-- 최소 기능 제품(MVP)으로 빠르게 가설을 검증합니다.
-- 사용자 피드백을 바탕으로 지속적으로 개선합니다.
-- 데이터 기반 의사결정을 지향합니다.
-
-## 주요 제품
-- EmotionCare: 감정 인식 기반 맞춤형 응원/조언 제공
-- PackCheck: 사진 기반 수하물 무게 추정 및 관리
-- SimpleVisionTimer: 집중을 돕는 미니멀 타이머
-- Lumina: 다양한 스타일의 AI 이미지 생성
-- chargeUpEV: 전비 계산 및 커뮤니티
-
-각 제품의 세부 기능은 Products 페이지에서 확인할 수 있습니다.
+TLDR builds digital products that solve real problems through simplicity and focus. We strip away unnecessary features and ship stable, valuable services that people can use every day.
 
 ---
 
-## 팀과 문화
-- 작은 팀, 높은 책임감: 각자가 제품의 오너십을 가집니다.
-- 투명한 커뮤니케이션: 결과와 과정을 솔직하게 공유합니다.
-- 자동화와 문서화: 반복을 줄이고 품질을 높입니다.
+## Mission
 
-## 신뢰와 투명성
-- 개인정보 처리방침 및 이용약관을 명확히 공개합니다.
-- 광고 표기 및 유료 결제 정책을 투명하게 안내합니다.
-- 문의와 제휴는 언제든지 Contact 페이지로 연락 주세요.
+- Simplify problems and focus on what matters.
+- Build products that respect users’ time.
+- Treat privacy and security as first-class priorities.
+
+## How we work
+
+- Validate ideas quickly with minimum viable products (MVPs).
+- Improve continuously based on user feedback.
+- Prefer data-informed decisions.
+
+## Products
+
+- **EmotionCare:** Personalized comfort and encouragement based on emotional context.
+- **PackCheck:** Photo-based luggage weight estimation and management.
+- **SimpleVisionTimer:** A minimal timer that supports focus.
+- **Lumina:** AI image generation in multiple styles.
+- **chargeUpEV:** EV efficiency and range estimation.
+
+See the [Products](/products) page for details.
 
 ---
 
-## 연락처
-- 지원/문의: main@tl-dr.in
-- 위치: Remote-first, Asia 기반 운영
+## Team & culture
 
-사용자에게 가치를 주는 제품을 만들기 위해 오늘도 집중합니다.
+- Small team, high ownership: everyone owns the product end to end.
+- Transparent communication: we share outcomes and process openly.
+- Automation & documentation: reduce repetition and raise quality.
+
+## Trust & transparency
+
+- Clear [Privacy Policy](/privacy-policy) and [Terms](/terms).
+- Transparent disclosure of ads and paid features.
+- For inquiries and partnerships, use the [Contact](/contact) page.
+
+---
+
+## Contact
+
+- Support / general: main@tl-dr.in
+- Location: Remote-first, Asia-based operations
+
+We stay focused on shipping products that deliver real value.

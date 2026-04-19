@@ -1,22 +1,27 @@
-# 광고 심사 통과를 위한 콘텐츠 품질 체크리스트
+# Content quality checklist for ad review
 
-Google Ads/AdMob 심사를 통과하기 위해서는 사이트와 앱이 사용자에게 충분한 가치를 제공함을 명확히 보여줘야 합니다. 다음 항목을 점검하세요.
+To pass Google Ads / AdMob review, your site and apps should clearly show real user value. Use this checklist before submission.
 
-## 1. 회사/서비스 소개의 명확성
-- About, Services, Products 페이지 제공
-- 실제 스크린샷/기능 목록/스토어 링크 포함
+## 1. Clear company & product story
 
-## 2. 정책 문서 구비
-- 개인정보 처리방침, 이용약관, 쿠키 정책 공개
-- 연락처와 책임 주체 명시
+- Provide About, Services, and Products pages.
+- Include real screenshots, feature lists, and store links.
 
-## 3. 콘텐츠의 독창성과 풍부함
-- 기능 설명, 사용 시나리오, FAQ, 블로그 글 최소 2개 이상
+## 2. Policy documents
 
-## 4. 사용자 신뢰 신호
-- 실제 지원 이메일, 응답 시간, 업데이트 기록(출시 노트)
+- Publish privacy policy, terms, and cookie policy.
+- Show contact details and who is responsible.
 
-## 5. 광고/수익화 투명성
-- 광고 존재 이유와 형태(전면/배너) 설명, 빈도 관리 방침
+## 3. Substantive content
 
-이 체크리스트를 통해 심사 리젝 사유였던 "내용 부족" 문제를 해소할 수 있습니다.
+- Describe features, use cases, and FAQs; maintain at least two blog posts or similar articles.
+
+## 4. Trust signals
+
+- Valid support email, expected response times, and update history (e.g. launch notes).
+
+## 5. Transparent monetization
+
+- Explain why ads appear and what formats you use (e.g. interstitial, banner) and how you manage frequency.
+
+This checklist helps address common “thin content” rejection reasons.

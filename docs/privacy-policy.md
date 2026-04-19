@@ -1,39 +1,48 @@
-# 개인정보 처리방침
+# Privacy policy
 
-본 문서는 TLDR(이하 "회사")가 제공하는 서비스에서 수집·이용되는 개인정보의 처리방침을 안내합니다.
+This document describes how TLDR (“we,” “us,” or “the company”) collects and processes personal data in our services.
 
-## 1. 수집 항목 및 방법
-- 필수: 서비스 제공에 필요한 최소 정보(예: 기기 식별자, 앱 로그)
-- 선택: 고객 지원 시 제공되는 이메일, 문의 내용
-- 수집 방법: 앱/웹 사용 시 자동 수집, 고객센터 문의 시 수집
+## 1. What we collect and how
 
-## 2. 이용 목적
-- 서비스 제공 및 운영, 오류 분석, 보안 강화
-- 고객 문의 응대 및 문제 해결
-- 법적 의무 준수
+- **Required:** Minimal information needed to operate the service (e.g. device identifiers, app logs).
+- **Optional:** Email and message content when you contact support.
+- **How:** Automatically when you use our apps or website; when you email support.
 
-## 3. 보유 및 이용 기간
-- 목적 달성 후 지체 없이 파기
-- 관련 법령에 따라 일정 기간 보관이 필요한 경우 해당 기간 보관
+## 2. Purposes
 
-## 4. 제3자 제공 및 처리 위탁
-- 법령에 의한 경우를 제외하고 사전 동의 없이 제공하지 않습니다.
-- 안정적 서비스 제공을 위해 일부 처리를 신뢰할 수 있는 업체에 위탁할 수 있으며, 위탁 시 필요한 범위와 보안 조치를 계약에 명시합니다.
+- Provide and operate the service, analyze errors, and improve security.
+- Respond to inquiries and resolve issues.
+- Comply with legal obligations.
 
-## 5. 이용자 권리
-- 개인정보 열람, 정정, 삭제, 처리정지 요청 가능
-- 앱 또는 이메일(main@tl-dr.in)로 요청하실 수 있습니다.
+## 3. Retention
 
-## 6. 안전성 확보 조치
-- 암호화, 접근 통제, 로그 모니터링, 최소 권한 원칙 준수
+- We delete data when it is no longer needed for the stated purpose.
+- Where the law requires retention, we keep data only for that period.
 
-## 7. 쿠키 사용 여부
-- 웹 사이트는 서비스 개선을 위해 쿠키를 사용할 수 있습니다. 상세는 쿠키 정책을 참고하세요.
+## 4. Third parties and processors
 
-## 8. 해외 이전
-- 일부 인프라는 해외 클라우드 환경을 사용할 수 있으며, 이 경우 적절한 보호 조치를 적용합니다.
+- We do not share data with third parties without consent, except as required by law.
+- We may use trusted processors for reliable operations; contracts define scope and security measures.
 
-## 9. 문의처
-- 이메일: main@tl-dr.in
+## 5. Your rights
 
-시행일: 2025-01-01
+- You may request access, correction, deletion, or restriction of processing.
+- Contact us via the app or at main@tl-dr.in.
+
+## 6. Security
+
+- We use encryption, access controls, logging, monitoring, and least-privilege principles.
+
+## 7. Cookies
+
+- This website may use cookies to improve the service. See the [Cookie Policy](/cookie-policy).
+
+## 8. International transfers
+
+- Some infrastructure may run on overseas clouds; we apply appropriate safeguards.
+
+## 9. Contact
+
+- **Email:** main@tl-dr.in
+
+**Effective date:** 2025-01-01

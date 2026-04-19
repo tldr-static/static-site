@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.9a45957d.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"slotspace-term-conditions/index.md"}'),r={name:"slotspace-term-conditions/index.md"},i=a("",18),n=[i];function s(p,h,l,d,u,c){return o(),t("div",null,n)}const f=e(r,[["render",s]]);export{m as __pageData,f as default};

@@ -1,32 +1,40 @@
-# 이용약관
+# Terms & conditions
 
-본 약관은 TLDR가 제공하는 서비스 이용과 관련하여 회사와 이용자 간의 권리, 의무 및 책임 사항을 규정합니다.
+These terms govern your use of TLDR services and set out rights, obligations, and responsibilities between you and TLDR.
 
-## 1. 목적
-서비스 이용 조건 및 절차, 회사와 이용자의 권리·의무를 명확히 합니다.
+## 1. Purpose
 
-## 2. 약관의 효력 및 변경
-- 본 약관은 게시와 동시에 효력이 발생합니다.
-- 회사는 관련 법령 변경 또는 서비스 개선을 위해 약관을 변경할 수 있으며, 변경 시 사전 공지합니다.
+To clarify conditions of use and the rights and duties of both parties.
 
-## 3. 계정 및 서비스 이용
-- 이용자는 관련 법령과 본 약관을 준수해야 합니다.
-- 불법적이거나 타인의 권리를 침해하는 행위를 금합니다.
+## 2. Effect and changes
 
-## 4. 유료 서비스 및 결제
-- 일부 서비스는 유료로 제공될 수 있으며, 결제/환불은 스토어 정책을 따릅니다.
+- These terms take effect when posted.
+- We may change them for legal or service reasons and will notify you in advance when we do.
 
-## 5. 콘텐츠 및 지적재산권
-- 서비스 내 제공되는 콘텐츠에 대한 권리는 회사 또는 정당한 권리자에게 있습니다.
-- 무단 복제, 배포, 변형을 금합니다.
+## 3. Accounts and use
 
-## 6. 광고 및 제휴
-- 서비스 내 광고가 표시될 수 있으며, 표기 기준을 준수합니다.
+- You must comply with applicable laws and these terms.
+- Illegal activity or infringement of others’ rights is prohibited.
 
-## 7. 면책
-- 천재지변, 불가항력 또는 이용자 귀책 사유로 인한 손해에 대해 책임을 지지 않습니다.
+## 4. Paid services and payments
 
-## 8. 분쟁 해결 및 관할
-- 분쟁은 상호 협의로 해결하며, 합의가 되지 않는 경우 관할 법원에 따릅니다.
+- Some services may be paid; payments and refunds follow store policies.
 
-시행일: 2025-01-01
+## 5. Content and intellectual property
+
+- Rights to content in the service belong to us or legitimate right holders.
+- Copying, distributing, or modifying content without permission is prohibited.
+
+## 6. Advertising and partnerships
+
+- Ads may appear in the service; we follow disclosure requirements.
+
+## 7. Disclaimer
+
+- We are not liable for damages due to force majeure or user fault.
+
+## 8. Disputes
+
+- We prefer good-faith negotiation; where that fails, disputes follow applicable jurisdiction rules.
+
+**Effective date:** 2025-01-01

@@ -1,16 +1,19 @@
-# 출시 노트: 2025 Q1
+# Launch notes: 2025 Q1
 
-2025년 1분기에는 사용자 가치를 높이고 운영 안정성을 강화하는 데 집중했습니다.
+In Q1 2025 we focused on user value and operational stability.
 
-## 주요 개선
-- EmotionCare: 메시지 개인화 개선, 초기 무료 10회 제공 고지 강화
-- PackCheck: 사진 분석 정확도 향상, 수동 항목 편집 UX 개선
-- 인프라: Cloud Run 스케일링 튜닝, 에러 로깅 강화
+## Highlights
 
-## 정책/보안
-- 개인정보 최소 수집 원칙 재점검
-- 쿠키/로그 보유 기간 명시화
+- **EmotionCare:** Improved message personalization; clearer disclosure of the initial free tier.
+- **PackCheck:** Better photo analysis accuracy; improved manual item editing UX.
+- **Infrastructure:** Cloud Run scaling tuning and stronger error logging.
 
-## 앞으로의 계획
-- 블로그 정기 발행으로 투명성 강화
-- 제품별 도움말 문서 확충
+## Policy & security
+
+- Revisited minimum data collection.
+- Clarified cookie and log retention periods.
+
+## What’s next
+
+- Regular blog updates for transparency.
+- Expanded help documentation per product.

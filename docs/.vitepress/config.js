@@ -4,11 +4,11 @@ export default {
   // base: '/static-site/',
   cleanUrls: true,
   head: [
-    ['meta', { name: 'keywords', content: 'TLDR, 앱 개발, AI, iOS, Swift, VitePress, 스타트업, EmotionCare, PackCheck' }],
+    ['meta', { name: 'keywords', content: 'TLDR, app development, AI, iOS, Swift, VitePress, startup, EmotionCare, PackCheck, ReplyBridge' }],
     ['meta', { name: 'author', content: 'TLDR' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'TLDR — Simple and minimal apps' }],
-    ['meta', { property: 'og:description', content: '심플하고 미니멀한 철학으로 문제를 해결하는 디지털 제품을 만듭니다.' }],
+    ['meta', { property: 'og:description', content: 'We build digital products with a simple, minimal philosophy.' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
   ],
   themeConfig: {
@@ -17,6 +17,16 @@ export default {
       { text: 'About', link: '/about' },
       { text: 'Services', link: '/services' },
       { text: 'Products', link: '/products' },
+      {
+        text: 'ReplyBridge',
+        items: [
+          { text: 'Get started (install & setup)', link: '/replybridge/getting-started' },
+          { text: 'Overview', link: '/replybridge/' },
+          { text: 'Connect Instagram', link: '/replybridge/integration' },
+          { text: 'How to use', link: '/replybridge/usage' },
+          { text: 'Marketing & tips', link: '/replybridge/marketing/' }
+        ]
+      },
       { text: 'Blog', link: '/blog/' },
       { text: 'FAQ', link: '/faq' },
       { text: 'Contact', link: '/contact' },
@@ -32,6 +42,29 @@ export default {
     footer: {
       message: '<a href="/privacy-policy">Privacy Policy</a> | <a href="/terms">Terms & Conditions</a> | <a href="/cookie-policy">Cookie Policy</a>',
       copyright: 'Copyright © 2023-present <a href="/">TLDR</a>'
+    },
+    sidebar: {
+      '/replybridge/': [
+        {
+          text: 'ReplyBridge',
+          items: [
+            { text: 'Get started', link: '/replybridge/getting-started' },
+            { text: 'Overview', link: '/replybridge/' },
+            { text: 'Connect Instagram', link: '/replybridge/integration' },
+            { text: 'How to use', link: '/replybridge/usage' }
+          ]
+        },
+        {
+          text: 'Marketing',
+          collapsed: false,
+          items: [
+            { text: 'Hub', link: '/replybridge/marketing/' },
+            { text: 'Content strategy', link: '/replybridge/marketing/content-strategy' },
+            { text: 'Practical tips', link: '/replybridge/marketing/tips' },
+            { text: 'Card series guide', link: '/replybridge/marketing/series-overview' }
+          ]
+        }
+      ]
     }
   }
 }

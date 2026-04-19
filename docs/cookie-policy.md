@@ -1,25 +1,31 @@
-# 쿠키 정책
+# Cookie policy
 
-본 정책은 TLDR 웹사이트에서 쿠키가 어떻게 사용되는지 안내합니다.
+This policy explains how TLDR websites use cookies.
 
-## 1. 쿠키란?
-- 쿠키는 웹사이트 이용 시 브라우저에 저장되는 작은 텍스트 파일입니다.
+## 1. What are cookies?
 
-## 2. 쿠키의 목적
-- 기본 기능 제공(세션 유지, 설정 저장)
-- 분석 및 성능 측정(페이지 방문, 체류 시간 등)
+Cookies are small text files stored in your browser when you visit a website.
 
-## 3. 사용 쿠키 예시
-- 필수 쿠키: 사이트 동작에 필수적인 쿠키
-- 분석 쿠키: 사이트 개선을 위한 통계 수집
+## 2. Why we use them
 
-## 4. 쿠키 관리 방법
-- 브라우저 설정에서 쿠키 허용/차단/삭제를 설정할 수 있습니다.
+- Essential functionality (sessions, preferences).
+- Analytics and performance (page views, time on site).
 
-## 5. 제3자 쿠키
-- 분석 또는 광고 파트너의 쿠키가 사용될 수 있으며, 해당 파트너의 정책을 함께 참고하세요.
+## 3. Examples
 
-## 6. 문의
-- 이메일: main@tl-dr.in
+- **Essential cookies:** Required for the site to work.
+- **Analytics cookies:** Help us understand usage and improve the site.
 
-시행일: 2025-01-01
+## 4. Managing cookies
+
+- You can allow, block, or delete cookies in your browser settings.
+
+## 5. Third-party cookies
+
+- Analytics or advertising partners may set cookies; see their policies as well.
+
+## 6. Contact
+
+- **Email:** main@tl-dr.in
+
+**Effective date:** 2025-01-01

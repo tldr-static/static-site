@@ -1,15 +1,17 @@
-# 연락처
+# Contact
 
-문의/지원/제휴는 아래 정보를 통해 연락해 주세요.
+For support, general questions, or partnerships, reach us through the channels below.
 
-- 이메일(지원/일반): main@tl-dr.in
-- 응답 시간: 영업일 기준 48시간 이내
-- 운영 시간: Mon–Fri, 10:00–18:00 (KST)
+- **Email (support / general):** main@tl-dr.in
+- **Response time:** Within 48 business hours
+- **Hours:** Mon–Fri, 10:00–18:00 (KST)
 
-## 파트너십/제휴
-- 광고/마케팅 협업
-- 기술 파트너십(PoC, 공동 개발)
-- 학교/기관 교육 및 워크숍
+## Partnerships
 
-## 정책 관련 문의
-- 개인정보 처리, 광고 표기, 결제/환불 정책은 각 제품 화면 또는 본 사이트 하단의 정책 문서를 참고하세요.
+- Advertising and marketing collaborations.
+- Technical partnerships (PoCs, co-development).
+- Education and workshops for schools and organizations.
+
+## Policy-related questions
+
+- For privacy, ad disclosure, and payment/refund policies, see each app’s in-app information or the policy documents linked in this site’s footer.

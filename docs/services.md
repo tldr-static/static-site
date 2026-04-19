@@ -1,27 +1,30 @@
-# 서비스
+# Services
 
-TLDR는 제품 기획부터 개발, 운영까지 전 과정을 제공합니다. 광고 및 스토어 심사를 고려한 설계로 빠르게 출시하고 안정적으로 운영합니다.
+TLDR covers the full lifecycle—from product planning and development to operations. We ship quickly with store and ad policy compliance in mind, then run services reliably.
 
 ---
 
-## 제공 역량
-- 모바일 앱 개발: iOS(Swift/SwiftUI), 멀티모달/AI 연동
-- 백엔드/인프라: Cloud Run, Datastore, 서버리스 설계, CI/CD
-- AI 통합: Vertex AI(Gemini), 프롬프트 설계, 데이터 파이프라인
-- 디자인/UX: 미니멀하고 직관적인 사용자 경험 설계
-- 수익화: 유료 결제, 구독, 광고(AdMob/Google Ads) 전략
-- 품질/보안: 개인정보/로그 정책, 성능 모니터링, 크래시 리포팅
+## Capabilities
 
-## 작업 프로세스
-1. 문제 정의 및 목표 설정
-2. MVP 설계 및 빠른 프로토타입
-3. 사용자 피드백 수집 및 개선
-4. 스토어 심사/광고 정책 점검
-5. 운영 자동화 및 데이터 기반 성장
+- **Mobile apps:** iOS (Swift/SwiftUI), multimodal & AI integrations.
+- **Backend & infra:** Cloud Run, Datastore, serverless patterns, CI/CD.
+- **AI:** Vertex AI (Gemini), prompt design, data pipelines.
+- **Design & UX:** Minimal, intuitive experiences.
+- **Monetization:** Paid apps, subscriptions, ads (AdMob / Google Ads).
+- **Quality & security:** Privacy and logging policies, performance monitoring, crash reporting.
 
-## 협업 형태
-- 프로젝트 단위 개발
-- 기능 단위 PoC/MVP
-- 장기 운영 및 개선 파트너십
+## Process
 
-문의는 Contact 페이지 또는 main@tl-dr.in 로 연락 주세요.
+1. Define the problem and goals.
+2. Design an MVP and ship a fast prototype.
+3. Collect feedback and iterate.
+4. Review store and ad policies before release.
+5. Automate operations and grow with data.
+
+## Engagement models
+
+- Project-based development.
+- Feature-level PoCs and MVPs.
+- Long-term operations and improvement partnerships.
+
+Contact us via the [Contact](/contact) page or main@tl-dr.in.
