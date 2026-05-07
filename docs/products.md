@@ -49,4 +49,25 @@ Our products are built on simplicity and designed for everyday use.
 - **Business model:** Paid app.
 - **Link:** https://apps.apple.com/app/chargeupev/id6742053124
 
+## NestNotes Baby Care
+
+- **Features:** Feeding, diaper, and sleep logging; 24h rhythm summary; history and dashboard stats; optional reminders. On-device convenience (not a medical device).
+- **Business model:** Free with ads (planned; follow App Store listing when live).
+- **Tech:** Swift, SwiftUI.
+- **App Store:** Listing not published yet.
+
+## Klondike Solitaire Daily
+
+- **Features:** Classic Klondike with tap or drag; daily layout, random deals, and pasteable seeds; hints, undo, glance preview, optional step-by-step solve; in-app economy for charges; share sheet for seeds.
+- **Business model:** Free core table play; third-party ads and optional rewarded video.
+- **Tech:** Swift, SwiftUI.
+- **Link:** https://apps.apple.com/us/app/klondike-solitaire-daily/id6766457785
+
+## Match & Clear
+
+- **Features:** Match-3 stages, special tiles (line clear, bomb, color bomb), boosters, obstacles (crates, chains, ice, and more), classic mode, daily missions, code-drawn visuals with shape and color cues for accessibility.
+- **Business model:** Free with ads.
+- **Tech:** Swift, SwiftUI.
+- **Link:** https://apps.apple.com/us/app/match-clear/id6756538541
+
 For more questions, visit the [Contact](/contact) page.

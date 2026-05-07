@@ -18,6 +18,9 @@ TLDR builds practical digital products on simplicity and focus. Explore **About*
 | **Lumina** | AI image generation in various styles. | AI + Swift | 💰 Paid app | [App Store](https://apps.apple.com/app/lumina-ai-image-generation/id6739451510) |
 | **SimpleVisionTimer** | Minimal visual timer. | SwiftUI | 💰 Paid app | [App Store](https://apps.apple.com/app/visionsimpletimer/id6476464751) |
 | **chargeUpEV** | EV efficiency, range, and trip cost. | Swift + JSON data | 💰 Paid app | [App Store](https://apps.apple.com/app/chargeupev/id6742053124) |
+| **NestNotes Baby Care** | Log feeding, diapers, and sleep; 24h rhythm view, history, and optional gentle reminders. | Swift, SwiftUI | Per app policy | App Store listing pending |
+| **Klondike Solitaire Daily** | Classic Klondike with daily layouts, shareable seeds, hints, undo, and optional solve walkthrough. | Swift, SwiftUI | Free; ads & optional rewarded video | [App Store](https://apps.apple.com/us/app/klondike-solitaire-daily/id6766457785) |
+| **Match & Clear** | Match-3 puzzle with boosters, obstacles, daily missions, and classic mode. | Swift, SwiftUI | 📢 Ads (free) | [App Store](https://apps.apple.com/us/app/match-clear/id6756538541) |
 
 ---
 

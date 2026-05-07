@@ -23,6 +23,9 @@ TLDR builds digital products that solve real problems through simplicity and foc
 - **SimpleVisionTimer:** A minimal timer that supports focus.
 - **Lumina:** AI image generation in multiple styles.
 - **chargeUpEV:** EV efficiency and range estimation.
+- **NestNotes Baby Care:** Feeding, diaper, and sleep logging with a simple daily rhythm view (App Store listing pending).
+- **Klondike Solitaire Daily:** Classic solitaire with daily boards and shareable seeds.
+- **Match & Clear:** Match-3 puzzles with boosters and daily missions.
 
 See the [Products](/products) page for details.
 
