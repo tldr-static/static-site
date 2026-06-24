@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReplyBridge — From comment to DM, automatically</title>
+  <meta name="description" content="Instagram auto-reply for business & creators. Auto DM & public replies via Meta official API. Coming soon on iOS.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='3' y='5' width='26' height='22' rx='5' fill='%234A4BD7'/><text x='16' y='24' text-anchor='middle' font-family='system-ui' font-size='14' font-weight='800' fill='%23FFFFFF'>RB</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ── Navigation ── -->
+  <nav class="site-navbar" role="navigation">
+    <div class="nav-inner">
+      <a href="#" class="nav-brand">ReplyBridge</a>
+      <button class="nav-toggle" aria-label="Toggle menu" type="button">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="#how-it-works">How It Works</a>
+        <a href="#features">Features</a>
+        <a href="#use-cases">Use Cases</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#" class="nav-cta">Coming Soon</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Hero ── -->
+  <header class="hero" id="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-content">
+      <div class="hero-badge">Meta Official API</div>
+      <h1 class="hero-title">
+        <span class="hero-line">From comment to DM,</span>
+        <span class="hero-line hero-line-accent">automatically.</span>
+      </h1>
+      <p class="hero-sub">Instagram auto-replies for business &amp; creators. One comment triggers a private DM and a public reply — through Meta&rsquo;s official API, no grey-area bots.</p>
+      <div class="hero-actions">
+        <a href="#" class="btn btn-primary btn-lg">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+          Coming Soon on the App Store
+        </a>
+        <a href="#how-it-works" class="btn btn-outline btn-lg">See How It Works</a>
+      </div>
+      <p class="hero-supplement">Free to start. Reward ads for automation extension. Coming soon on iOS.</p>
+    </div>
+  </header>
+
+  <!-- ── How It Works ── -->
+  <section class="section-wrap" id="how-it-works">
+    <div class="section-inner">
+      <div class="section-label">How It Works</div>
+      <h2 class="section-title">Three steps to always-on replies</h2>
+      <p class="section-desc">Connect your account, set your rules, and let ReplyBridge handle the rest.</p>
+
+      <div class="steps-grid">
+        <div class="step-card">
+          <div class="step-number">1</div>
+          <h3 class="step-title">Connect Instagram</h3>
+          <p class="step-text">Authorize your business or creator account via Meta&rsquo;s official OAuth. No passwords, no screen scraping.</p>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-card">
+          <div class="step-number is-active">2</div>
+          <h3 class="step-title">Set Your Rules</h3>
+          <p class="step-text">Choose keywords, toggle one-per-person, and set an automation window. Decide who gets a DM, who gets a public reply, or both.</p>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-card">
+          <div class="step-number">3</div>
+          <h3 class="step-title">Automate &amp; Monitor</h3>
+          <p class="step-text">ReplyBridge sends private DMs and public replies automatically. Track sends, unique commenters, and expiry at a glance.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Features ── -->
+  <section class="section-wrap section-alt" id="features">
+    <div class="section-inner">
+      <div class="section-label">Features</div>
+      <h2 class="section-title">Built for real Instagram accounts</h2>
+      <p class="section-desc">Every feature works through Meta&rsquo;s official API — no grey area, no ban risk.</p>
+
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/><path d="M8 10h.01M12 10h.01M16 10h.01"/></svg>
+          </div>
+          <h3 class="feature-title">Auto DM</h3>
+          <p class="feature-text">When someone comments, ReplyBridge sends them a private DM through Meta&rsquo;s Private Reply API. Quiet, direct, automated.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 013 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+          </div>
+          <h3 class="feature-title">Auto Reply</h3>
+          <p class="feature-text">Post a public reply to the comment thread with a separate message. Same automation, visible to everyone who reads the post.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+          </div>
+          <h3 class="feature-title">Automation Window</h3>
+          <p class="feature-text">DM and public reply share a single expiry per post. Get notified before it ends. Extend with a reward ad when available.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><path d="M7 7h.01"/></svg>
+          </div>
+          <h3 class="feature-title">Keyword Rules</h3>
+          <p class="feature-text">Match comments by keyword. Set different triggers for DM vs public reply. Combine with one-per-person to prevent duplicates.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 16l4-8 4 4 4-6"/></svg>
+          </div>
+          <h3 class="feature-title">At-a-Glance Stats</h3>
+          <p class="feature-text">See send count and unique commenters per post. Know which content actually drives inquiries — no more guessing.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>
+          </div>
+          <h3 class="feature-title">Official API Only</h3>
+          <p class="feature-text">Built on Meta&rsquo;s Private Reply and Comments APIs. No screen scraping, no unauthorized automation. Your account stays safe.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Use Cases ── -->
+  <section class="section-wrap" id="use-cases">
+    <div class="section-inner">
+      <div class="section-label">Use Cases</div>
+      <h2 class="section-title">Automation that fits your workflow</h2>
+      <p class="section-desc">Three audiences, one tool. ReplyBridge adapts to how you run your Instagram.</p>
+
+      <div class="cases-grid">
+        <div class="case-card">
+          <div class="case-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
+          </div>
+          <h3 class="case-title">Solo Creator</h3>
+          <p class="case-audience">5k&ndash;100k followers &middot; Shop, class, or consultancy</p>
+          <p class="case-text">&ldquo;Comments asking &lsquo;DM me the details&rsquo; pile up fast. ReplyBridge sends the info automatically — I don&rsquo;t miss a single inquiry.&rdquo;</p>
+          <div class="case-tag">Auto DM</div>
+        </div>
+        <div class="case-card case-featured">
+          <div class="case-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/></svg>
+          </div>
+          <h3 class="case-title">1-Person E-Commerce</h3>
+          <p class="case-audience">10k&ndash;300k followers &middot; Online store or brand</p>
+          <p class="case-text">&ldquo;Seasonal launches flood my comments. With keyword rules and one-per-person, every &lsquo;How do I order?&rsquo; gets a DM — no spam, no duplicates.&rdquo;</p>
+          <div class="case-tag">Keywords &middot; 1/Person</div>
+        </div>
+        <div class="case-card">
+          <div class="case-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4A4BD7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 013 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+          </div>
+          <h3 class="case-title">Agency &amp; Brand Manager</h3>
+          <p class="case-audience">Multiple accounts &middot; Reporting needed</p>
+          <p class="case-text">&ldquo;I manage accounts across clients. Per-post stats tell me which content drives real inquiries — clean data for client reports.&rdquo;</p>
+          <div class="case-tag">Stats &middot; Multi-account</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Pricing ── -->
+  <section class="section-wrap section-alt" id="pricing">
+    <div class="section-inner">
+      <div class="section-label">Pricing</div>
+      <h2 class="section-title">Free to start. No subscription needed.</h2>
+      <p class="section-desc">Automate replies at no cost. Reward ads keep your automation running longer.</p>
+
+      <div class="pricing-grid">
+        <div class="pricing-card">
+          <div class="pricing-top">
+            <h3 class="pricing-name">Starter</h3>
+            <div class="pricing-amount">Free</div>
+            <p class="pricing-desc">Try ReplyBridge on your first post.</p>
+          </div>
+          <ul class="pricing-features">
+            <li>1 active automation window</li>
+            <li>Auto DM + Auto Reply</li>
+            <li>Basic keyword matching</li>
+            <li>One-per-person toggle</li>
+          </ul>
+          <a href="#" class="btn btn-primary btn-block">Coming Soon</a>
+        </div>
+        <div class="pricing-card pricing-featured">
+          <div class="pricing-badge">Most Popular</div>
+          <div class="pricing-top">
+            <h3 class="pricing-name">Unlimited</h3>
+            <div class="pricing-amount">Free</div>
+            <p class="pricing-desc">Extend via reward ads. No cap on active posts.</p>
+          </div>
+          <ul class="pricing-features">
+            <li>Unlimited active windows</li>
+            <li>Extend with reward ads</li>
+            <li>Full keyword rule sets</li>
+            <li>Per-post send stats</li>
+          </ul>
+          <a href="#" class="btn btn-primary btn-block">Coming Soon</a>
+        </div>
+        <div class="pricing-card">
+          <div class="pricing-top">
+            <h3 class="pricing-name">Business</h3>
+            <div class="pricing-amount">Coming</div>
+            <p class="pricing-desc">For agencies and power users.</p>
+          </div>
+          <ul class="pricing-features">
+            <li>Multi-account management</li>
+            <li>Advanced analytics &amp; export</li>
+            <li>Priority support</li>
+            <li>Custom automation rules</li>
+          </ul>
+          <a href="#" class="btn btn-outline btn-block">Join Waitlist</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CTA ── -->
+  <section class="section-wrap section-cta">
+    <div class="section-inner">
+      <div class="cta-card">
+        <h2 class="cta-title">Ready to automate your replies?</h2>
+        <p class="cta-text">ReplyBridge is coming soon on the App Store. Join the waitlist to be the first to know.</p>
+        <a href="#" class="btn btn-primary btn-lg">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+          Coming Soon on the App Store
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Footer ── -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <div class="footer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="2" y="4" width="28" height="24" rx="6" fill="#4A4BD7"/>
+            <text x="16" y="24" text-anchor="middle" font-family="system-ui" font-size="16" font-weight="800" fill="#FFFFFF">RB</text>
+          </svg>
+          <span class="footer-brand-name">ReplyBridge</span>
+        </div>
+        <p class="footer-tagline">From comment to DM, automatically.</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>Product</h4>
+          <a href="#how-it-works">How It Works</a>
+          <a href="#features">Features</a>
+          <a href="#use-cases">Use Cases</a>
+          <a href="#pricing">Pricing</a>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <a href="#">App Store</a>
+          <a href="mailto:main@tl-dr.in">Email</a>
+        </div>
+        <div class="footer-col">
+          <h4>Resources</h4>
+          <a href="https://instagram.com/replybridge" target="_blank" rel="noopener">Instagram</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 ReplyBridge. All rights reserved. Built on Meta&rsquo;s official API.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
