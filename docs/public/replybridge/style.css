@@ -404,9 +404,10 @@ img { max-width: 100%; height: auto; display: block; }
 /* ── Pricing ── */
 .pricing-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: minmax(0, 480px);
   gap: 24px;
   align-items: start;
+  justify-content: center;
 }
 .pricing-card {
   background: var(--surface);
@@ -421,7 +422,6 @@ img { max-width: 100%; height: auto; display: block; }
 .pricing-featured {
   border-color: var(--primary);
   border-width: 1.5px;
-  transform: scale(1.04);
 }
 .pricing-badge {
   position: absolute;
@@ -613,8 +613,7 @@ img { max-width: 100%; height: auto; display: block; }
   }
   .features-grid { grid-template-columns: repeat(2, 1fr); }
   .cases-grid { grid-template-columns: 1fr; }
-  .pricing-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
-  .pricing-featured { transform: none; }
+  .pricing-grid { grid-template-columns: 1fr; }
   .footer-inner { grid-template-columns: 1fr; }
 }
 
