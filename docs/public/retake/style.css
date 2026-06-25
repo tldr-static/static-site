@@ -301,6 +301,23 @@ img { max-width: 100%; height: auto; display: block; }
 .feature-icon-wrap svg { width: 100%; height: 100%; }
 .feature-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
 .feature-text { font-size: 14px; color: var(--ink-secondary); line-height: 1.5; }
+.coming-soon-badge {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: var(--marker);
+  color: var(--card);
+  padding: 2px 7px;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+.coming-soon-badge--light {
+  background: rgba(250,248,244,0.15);
+  color: rgba(250,248,244,0.8);
+}
 
 /* ── Showcase ── */
 .showcase-grid {
@@ -460,55 +477,6 @@ img { max-width: 100%; height: auto; display: block; }
 .section-dev .section-label { color: var(--marker); border-bottom-color: var(--marker); }
 .section-dev .section-title { color: var(--card); }
 .section-dev .section-desc { color: rgba(250,248,244,0.7); }
-.dev-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-  align-items: center;
-}
-.dev-features {
-  list-style: none;
-  margin-bottom: 24px;
-}
-.dev-features li {
-  font-size: 14px;
-  padding: 8px 0;
-  padding-left: 20px;
-  position: relative;
-  color: rgba(250,248,244,0.85);
-}
-.dev-features li::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 14px;
-  width: 8px;
-  height: 8px;
-  background: var(--marker);
-  border-radius: 1px;
-}
-.dev-features strong { color: var(--card); }
-.section-dev .btn-sketch {
-  background: transparent;
-  color: var(--card);
-  border-color: rgba(250,248,244,0.3);
-}
-.section-dev .btn-sketch:hover {
-  background: rgba(250,248,244,0.1);
-}
-.dev-code {
-  background: rgba(0,0,0,0.3);
-  border-radius: var(--radius);
-  padding: 20px;
-}
-.dev-code pre {
-  font-family: var(--mono);
-  font-size: 13px;
-  line-height: 1.6;
-  overflow-x: auto;
-}
-.dev-code code { color: var(--card); }
-.code-comment { color: var(--sketch-green); opacity: 0.7; }
 
 /* ── Footer ── */
 .site-footer {
@@ -592,7 +560,6 @@ img { max-width: 100%; height: auto; display: block; }
     margin: 0 auto;
   }
   .pricing-featured { transform: none; }
-  .dev-layout { grid-template-columns: 1fr; }
   .footer-inner { grid-template-columns: 1fr; }
   .footer-links { grid-template-columns: repeat(2, 1fr); }
 }
