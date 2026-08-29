@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a}from"./app.19f3f8f0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vision-simple-timer-term-conditions/index.md"}'),i={name:"vision-simple-timer-term-conditions/index.md"},r=a("",18),n=[r];function s(p,h,l,d,u,c){return o(),t("div",null,n)}const f=e(i,[["render",s]]);export{m as __pageData,f as default};

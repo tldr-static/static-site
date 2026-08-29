@@ -1,30 +1,25 @@
 # Cookie policy
 
-This policy explains how TLDR websites use cookies.
+This policy explains how TLDR websites use cookies and similar browser storage.
 
 ## 1. What are cookies?
 
 Cookies are small text files stored in your browser when you visit a website.
 
-## 2. Why we use them
+## 2. Current use
 
-- Essential functionality (sessions, preferences).
-- Analytics and performance (page views, time on site).
+- This site may use browser storage needed for basic functionality and preferences.
+- We do not currently use analytics or advertising cookies on this site.
 
-## 3. Examples
-
-- **Essential cookies:** Required for the site to work.
-- **Analytics cookies:** Help us understand usage and improve the site.
-
-## 4. Managing cookies
+## 3. Managing cookies
 
 - You can allow, block, or delete cookies in your browser settings.
 
-## 5. Third-party cookies
+## 4. Third-party cookies
 
-- Analytics or advertising partners may set cookies; see their policies as well.
+- Third-party sites opened through links may set cookies under their own policies.
 
-## 6. Contact
+## 5. Contact
 
 - **Email:** main@tl-dr.in
 

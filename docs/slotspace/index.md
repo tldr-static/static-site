@@ -31,4 +31,4 @@ Are you ready to embark on an extraordinary journey through the stars? Download 
 Note: Slot Space is intended for entertainment purposes only. No real money gambling is involved.
 
 ## CS
-jhj377@gmail.com
+main@tl-dr.in

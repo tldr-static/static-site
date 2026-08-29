@@ -20,21 +20,29 @@ To clarify conditions of use and the rights and duties of both parties.
 
 - Some services may be paid; payments and refunds follow store policies.
 
-## 5. Content and intellectual property
+## 5. Privacy
+
+- Personal information is handled under the [Privacy Policy](/privacy-policy).
+
+## 6. Content and intellectual property
 
 - Rights to content in the service belong to us or legitimate right holders.
 - Copying, distributing, or modifying content without permission is prohibited.
 
-## 6. Advertising and partnerships
+## 7. Advertising and partnerships
 
 - Ads may appear in the service; we follow disclosure requirements.
 
-## 7. Disclaimer
+## 8. Disclaimer
 
 - We are not liable for damages due to force majeure or user fault.
 
-## 8. Disputes
+## 9. Disputes
 
 - We prefer good-faith negotiation; where that fails, disputes follow applicable jurisdiction rules.
 
-**Effective date:** 2025-01-01
+**Effective date:** 2026-08-29 · **Last updated:** 2026-08-29
+
+## Contact
+
+For questions about these terms, contact **main@tl-dr.in**.
