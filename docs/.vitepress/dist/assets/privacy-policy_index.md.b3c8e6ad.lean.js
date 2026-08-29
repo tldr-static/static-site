@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as r}from"./app.19f3f8f0.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"privacy-policy/index.md"}'),i={name:"privacy-policy/index.md"},a=r("",47),n=[a];function s(l,c,p,d,u,h){return o(),t("div",null,n)}const f=e(i,[["render",s]]);export{y as __pageData,f as default};

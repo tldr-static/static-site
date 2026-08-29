@@ -21,7 +21,6 @@ TLDR builds practical digital products on simplicity and focus. Explore **About*
 | **NestNotes Baby Care** | Log feeding, diapers, and sleep; 24h rhythm view, history, and optional gentle reminders. | Swift, SwiftUI | Per app policy | App Store listing pending |
 | **Klondike Solitaire Daily** | Classic Klondike with daily layouts, shareable seeds, hints, undo, and optional solve walkthrough. | Swift, SwiftUI | Free; ads & optional rewarded video | [App Store](https://apps.apple.com/us/app/klondike-solitaire-daily/id6766457785) |
 | **Match & Clear** | Match-3 puzzle with boosters, obstacles, daily missions, and classic mode. | Swift, SwiftUI | 📢 Ads (free) | [App Store](https://apps.apple.com/us/app/match-clear/id6756538541) |
-| **ReTake** | AI video editing — describe the edit in plain language, preview, and generate. | iOS, Replicate AI | 🎟️ Credit packs ($5–$25) | [App Store](https://apps.apple.com/app/retake-video-editor) · [Landing page](/retake/) |
 
 ---
 

@@ -28,7 +28,6 @@ export default {
           { text: 'Marketing & tips', link: '/replybridge/marketing/' }
         ]
       },
-      { text: 'ReTake', link: '/retake/' },
       { text: 'Blog', link: '/blog/' },
       { text: 'FAQ', link: '/faq' },
       { text: 'Contact', link: '/contact' },
