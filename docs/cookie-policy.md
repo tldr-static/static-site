@@ -21,6 +21,6 @@ Cookies are small text files stored in your browser when you visit a website.
 
 ## 5. Contact
 
-- **Email:** main@tl-dr.in
+- **Email:** main@tldrspace.com
 
 **Effective date:** 2025-01-01

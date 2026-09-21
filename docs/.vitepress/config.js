@@ -4,6 +4,7 @@ export default {
   // base: '/static-site/',
   cleanUrls: true,
   head: [
+    ['link', { rel: 'canonical', href: 'https://tldrspace.com' }],
     ['meta', { name: 'keywords', content: 'TLDR, app development, AI, iOS, Swift, VitePress, startup, EmotionCare, PackCheck, ReplyBridge, Match & Clear, Klondike Solitaire Daily, NestNotes Baby Care' }],
     ['meta', { name: 'author', content: 'TLDR' }],
     ['meta', { property: 'og:type', content: 'website' }],

@@ -18,4 +18,4 @@ Yes. Share your goals and scope on the [Contact](/contact) page and we will revi
 
 ## Q. What is the support email?
 
-main@tl-dr.in. We aim to reply as soon as possible.
+main@tldrspace.com. We aim to reply as soon as possible.

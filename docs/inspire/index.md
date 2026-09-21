@@ -1,7 +1,7 @@
 # 감정 앱
 
 # 지원 이메일
-main@tl-dr.in
+main@tldrspace.com
 
 ## 설명
 

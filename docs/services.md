@@ -27,4 +27,4 @@ TLDR covers the full lifecycle—from product planning and development to operat
 - Feature-level PoCs and MVPs.
 - Long-term operations and improvement partnerships.
 
-Contact us via the [Contact](/contact) page or main@tl-dr.in.
+Contact us via the [Contact](/contact) page or main@tldrspace.com.

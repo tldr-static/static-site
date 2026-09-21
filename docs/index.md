@@ -33,7 +33,7 @@ TLDR builds practical digital products on simplicity and focus. Explore **About*
 ---
 
 ## 💌 Contact  
-Support: **main@tl-dr.in**
+Support: **main@tldrspace.com**
 
 ---
 
@@ -88,4 +88,4 @@ Free to use; revenue from ad impressions.
 | **iOS** | [PackCheck on the App Store](https://apps.apple.com/app/packcheck/id6744557596) |
 
 ### Contact  
-Support: **main@tl-dr.in**
+Support: **main@tldrspace.com**

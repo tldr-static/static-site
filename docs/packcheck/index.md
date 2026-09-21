@@ -59,7 +59,7 @@ We support development through **Google AdMob (interstitial ads)**
 ## 📬 Need Help?
 
 Have a question or suggestion?  
-📧 Email us: **main@tl-dr.in**
+📧 Email us: **main@tldrspace.com**
 
 ---
 

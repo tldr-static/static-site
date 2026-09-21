@@ -47,7 +47,7 @@ See the [Products](/products) page for details.
 
 ## Contact
 
-- Support / general: main@tl-dr.in
+- Support / general: main@tldrspace.com
 - Location: Remote-first, Asia-based operations
 
 We stay focused on shipping products that deliver real value.

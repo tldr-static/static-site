@@ -2,7 +2,7 @@
 
 For support, general questions, or partnerships, reach us through the channels below.
 
-- **Email (support / general):** main@tl-dr.in
+- **Email (support / general):** main@tldrspace.com
 - **Response time:** Within 48 business hours
 - **Hours:** Mon–Fri, 10:00–18:00 (KST)
 

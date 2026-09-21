@@ -32,7 +32,7 @@ We retain each category of information only for as long as needed for its stated
 
 ## Your choices and rights
 
-Subject to applicable law, you may request access to, correction of, deletion of, or restriction of processing of your personal information, and may object to or withdraw consent for processing based on consent. Email requests to **main@tl-dr.in**. We may verify your identity before responding, will respond within the period required by applicable law, and will explain if a request cannot be fulfilled.
+Subject to applicable law, you may request access to, correction of, deletion of, or restriction of processing of your personal information, and may object to or withdraw consent for processing based on consent. Email requests to **main@tldrspace.com**. We may verify your identity before responding, will respond within the period required by applicable law, and will explain if a request cannot be fulfilled.
 
 ## Cookies, advertising, and transfers
 
@@ -44,4 +44,4 @@ We use reasonable technical and organizational safeguards, including access cont
 
 ## Changes and contact
 
-We may update this policy by posting a revised version with a new date. Questions or privacy requests: **main@tl-dr.in**.
+We may update this policy by posting a revised version with a new date. Questions or privacy requests: **main@tldrspace.com**.

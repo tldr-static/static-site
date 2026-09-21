@@ -45,4 +45,4 @@ To clarify conditions of use and the rights and duties of both parties.
 
 ## Contact
 
-For questions about these terms, contact **main@tl-dr.in**.
+For questions about these terms, contact **main@tldrspace.com**.
